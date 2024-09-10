@@ -7,7 +7,7 @@ I'm a passionate full-stack developer with a strong focus on backend development
 -
 - 📫 How to reach me: [nglbelangel@gmail.com](mailto:nglbelangel@gmail.com)
 
-**Skills**  
+**Technology i used**  
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
