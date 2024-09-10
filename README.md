@@ -4,7 +4,7 @@ Hi there, I'm Angel 👋
 I'm a passionate full-stack developer with a strong focus on backend development. I enjoy creating web and mobile applications that solve real-world problems and improve user experiences.
 
 - 🌱 I’m currently learning advanced React patterns and Node.js best practices.
-- 💬 Ask me about JavaScript, React, Node.js, Express, MongoDB, HTML, CSS, React Native with Expo, and EAS.
+-
 - 📫 How to reach me: [nglbelangel@gmail.com](mailto:nglbelangel@gmail.com)
 
 **Skills**  
@@ -27,9 +27,7 @@ I'm a passionate full-stack developer with a strong focus on backend development
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 **Experience**  
-- **Backend Development**: Expertise in Node.js, Express, and MongoDB. Experienced in creating APIs, setting up servers, and testing endpoints using Postman.
-- **Frontend Development**: Skilled in using React and TypeScript to build interactive and responsive user interfaces.
-- **Mobile Development**: Proficient in building mobile applications using React Native with Expo and EAS for deployment and testing.
+
 - **Web Development Intern** at DNA Micro Software Inc.
 
 **Get in Touch**  
